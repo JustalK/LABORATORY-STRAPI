@@ -41,10 +41,8 @@ For testing purpose, I use Postman to query the content I did using a GET call
 
 ## Running
 
-I am using NX, so for starting the project use the following command:
-
 ```bash
-$ nx run-many --target=serve --projects=api,app-react-twilio
+$ npm run start
 ```
 
 ## System
