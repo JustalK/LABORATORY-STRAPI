@@ -9,6 +9,7 @@ Looking around, Strapi seems to be the perfect solution. Since it can be self-ho
 I explain with all the details how I build the project and my way of working.
 
 - [Experiences](#experiences)
+- [Limitations](#limitations)
 - [Running](#running)
 - [System](#system)
 
@@ -32,6 +33,8 @@ Once done, by clicking on `Content Manager`, we can fill up our conent
 ![./documentations/4.png](./documentations/4.png)
 
 #### Creating an api token and querying the api
+
+By default, the token delivered allow you to do everything. So careful if it goes to production.
 
 ![./documentations/5.png](./documentations/5.png)
 
