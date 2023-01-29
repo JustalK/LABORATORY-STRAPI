@@ -39,6 +39,12 @@ For testing purpose, I use Postman to query the content I did using a GET call
 
 ![./documentations/6.png](./documentations/6.png)
 
+## Limitations
+
+- Strangely, we cannot add more than 3 roles. I am sure it will be possible to bypass this protection by looking at the code.
+
+![./documentations/7.png](./documentations/7.png)
+
 ## Running
 
 ```bash
